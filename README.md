@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil  
 
-<!--
-**isabellyalves1/isabellyalves1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Isabelly Alves 
 
-Here are some ideas to get you started:
+-Estou estudando na [Alura](https:www.alura.com.br)
+-Estou me desenvolvendo na lingiuagem JavaScript
+-Ultilizo esse espaço pra mim orgnização e compartilhamento do meu projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Você entra em contato comigo 
+
+00001117297974sp@al.educacao.sp.gov.br
+
+ @Isabellyalves1
+
+![](![image](https://github.com/isabellyalves1/isabellyalves1/assets/172635058/7150a301-fe3d-4355-ac57-9ffefb4a19fa))
